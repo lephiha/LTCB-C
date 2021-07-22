@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625498158 source:c:\users\hp\downloads\bai tap c\bai tap ve struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+

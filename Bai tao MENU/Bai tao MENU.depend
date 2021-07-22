@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625591413 source:c:\users\hp\downloads\bai tap c\bai tao menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

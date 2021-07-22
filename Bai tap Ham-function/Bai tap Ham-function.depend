@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625622437 source:c:\users\hp\downloads\bai tap c\bai tap ham-function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624100484 source:c:\users\hp\downloads\bai tap c\bai tap if, switch...case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
